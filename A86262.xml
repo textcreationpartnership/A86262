@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of the good successe of the Parliaments forces under the command of Generall Lesly, the Earl of Manchester, and the Lord Fairfax, against the forces commanded by Prince Rupert and the Earl of Newcastle, on Hesham-Moore, on Tuesday July 2. 1644. Sent by way of letter from a captain there present, to a friend in London.</title>
+            <author>W. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86262</idno>
+            <idno type="STC">Wing H161</idno>
+            <idno type="STC">Thomason E54_11</idno>
+            <idno type="STC">ESTC R11691</idno>
+            <idno type="EEBO-CITATION">99859106</idno>
+            <idno type="PROQUEST">99859106</idno>
+            <idno type="VID">111172</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86262)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111172)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 10:E54[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of the good successe of the Parliaments forces under the command of Generall Lesly, the Earl of Manchester, and the Lord Fairfax, against the forces commanded by Prince Rupert and the Earl of Newcastle, on Hesham-Moore, on Tuesday July 2. 1644. Sent by way of letter from a captain there present, to a friend in London.</title>
+                  <author>W. H.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. F.,</publisher>
+                  <pubPlace>[Cambridge] :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed W. H.</note>
+                  <note>reproduction of the original in the British Library.</note>
+                  <note>Annotation on Thomason copy: "July 10th Cambridge".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682 --  Early works to 1800.</term>
+               <term>Fairfax, Ferdinando Fairfax, --  Baron, 1584-1648 --  Early works to 1800.</term>
+               <term>Leven, Alexander Leslie, --  Earl of, 1580?-1661 --  Early works to 1800.</term>
+               <term>Manchester, Edward Montagu, --  Earl of, 1602-1671 --  Early works to 1800.</term>
+               <term>Newcastle, William Cavendish, --  Duke of, 1592-1676 --  Early works to 1800.</term>
+               <term>Marston Moor, Battle of, 1644 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111172:1"/>
+            <pb facs="tcp:111172:1" rendition="simple:additions"/>
+            <p>A Relation of the good ſuc<g ref="char:EOLhyphen"/>ceſſe of the <hi>Parliaments</hi> forces under the Command of <hi>Generall</hi> Leſly, <hi>the Earl of</hi> Mancheſter, <hi>and the Lord</hi> Fairfax, Againſt the forces commanded by Prince <hi>Rupert</hi> and the Earl of <hi>Newcaſtle, on</hi> Heſham-Moore, <hi>on Tueſday</hi> July 2. 1644.</p>
+            <p>Sent by way of Letter from a Captain there preſent, to a friend in LONDON.</p>
+            <p>
+               <add>July 10<hi rend="sup">th</hi> Cambridge</add>
+            </p>
+            <p>Printed by <hi>W.F.</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:111172:2"/>
+            <pb facs="tcp:111172:2"/>
+            <head>A relation of the great victorie obtained (by Gods aſsi<g ref="char:EOLhyphen"/>ſtance) by the <hi>Parliaments</hi> Forces, over thoſe great Forces under <hi>the Command of</hi> P<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>e RUPERT.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THoſe many and very great courteſies I have for<g ref="char:EOLhyphen"/>merly received from you, (eſpecially your bounty in promoting my endeavour for Scholarſhip) commands me to watch all opportunities to do you ſer<g ref="char:EOLhyphen"/>vice. But the ſubstance of this enſuing Letter is ſuch, that I know with you <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> will claim a fair acceptance, though I preſent you <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with the plauſible ſhew of a Preamble. Briefly the<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>us:</p>
+            <p>SIR, By Gods bleſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing I can tell you I am alive, and ſo are you, and by Go<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> victorious arme, the Church of God: Laſt night he ſhe<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d us what the fury of its e<g ref="char:EOLhyphen"/>nemies could do, which w<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o powerfull and performed with ſo much reſolution and audacity, noyſe and terrour, that you could not but have thought they now at laſt had moved even Hell gates. But to proceed orderly, (for now I am recollected, having bruſhd off the duſt and fury of warre, and fallen into a calm of gratitude to my Prote<g ref="char:EOLhyphen"/>ctour, and deſiring you and all like your ſelfe, to ſhewe your ſelves alſo ſuch to him that hath ſaved you and the
+<pb facs="tcp:111172:3"/>Commonwealth) After many aſſaults upon the citie of York performed with great courage, and alſo the often receiving the reſolute ſallies of a ſtrong enemy, we heard by our Scouts on Friday laſt, being the <hi>28.</hi> of June, that behinde us their Goliath had made his neare approach, with men not to be numbred; a vaſt body indeed it was: this being conſidered by a Counſel of Warre, it was de<g ref="char:EOLhyphen"/>termined to raiſe the Siege with all convenient ſpeed, which beginning the next morning, it was fully com<g ref="char:EOLhyphen"/>pleated before Munday at noon, the Enemy making ſmall skirmiſhes all the while with us, and we with our forlorn hope of Horſe drawn up for that purpoſe ſtill repulſing them.</p>
+            <p>On Tueſday the ſecond of July we pitcht in <hi>Heſham. Moore,</hi> where no ſooner looking about us, but the enemy with diſplayed colours entered the ſame place, bending to<g ref="char:EOLhyphen"/>wards the left hand, by reaſon of ſome advantage they perceived there; which we ſtriving to prevent, made for it, before they ſhould poſſeſse themſelves of it; in the meane time the main body of their pitched in that very place and neare unto it which we left.</p>
+            <p>Our Army conſiſting of three Generalls, had a Generall for every part to conduct it: The main body was the Scots led on by General <hi>Leſley,</hi> the right wing by the Lord <hi>Fair<g ref="char:EOLhyphen"/>fax,</hi> and the left wing by the Earl of <hi>Mancheſter.</hi> They drew up their battalie likewiſe with much gallantry, ſome<g ref="char:EOLhyphen"/>thing larger then ours in appearance, commanded by the Prince, the Marqueſſe of <hi>Newcaſtle,</hi> Sir <hi>Charles Lu<g ref="char:EOLhyphen"/>cas.</hi> Thus the <hi>Moore</hi> commonly called Heſham <hi>Moore</hi> being ſix miles long, and generally a mile broad, was be<g ref="char:EOLhyphen"/>ſpread
+<pb facs="tcp:111172:3"/>and covered with the two battailions. We began a<g ref="char:EOLhyphen"/>bout two of the clock in the afternoon with our great guns, which continued till between <hi>7</hi> and <hi>8</hi> with equall ſuc<g ref="char:EOLhyphen"/>ceſſe, then the main bodies joyning, made ſuch a noiſe with ſhot and clamour of ſhouts that we loſt our eares, and the ſmoke of powder was ſo thick that we ſaw no light but what proceeded from the mouth of gunnes. For the firſt; their brave Chivalry in the left wing gave ſuch a Cavalier-like aſſault that preſently they routed our right, conſiſting of my Lord <hi>Fairfaxes</hi> men, made up with ſome regiments of commanded Scots, who by the help of good horſes ran ſo farre before they lookt about, that this morning I paſsing towards <hi>Hull-ward</hi> for releife of my weariſomeneſſe I found all places poſſeſt with the noiſe of the totall overthrow of the Parliament forces. But nothing ſo, God be thanked, for the right wing being fled &amp; eagerly perſued, in the mean time we under the command of my Lord of <hi>Mancheſter</hi> and Collonel <hi>Crumwell</hi> then leading up our Brigade of horſe, gave them ſo brave an onſet, that God ſeconding it with his bleſsing, in leſſe then an houre we had totally routed their foot on the right wing. In the mean time it was hotly diſputed between the two main bodies, ours conſiſting of the Scots led up by Generall <hi>Leſley,</hi> theirs by Prince <hi>Ru<g ref="char:EOLhyphen"/>pert:</hi> but theirs at laſt perceiving their friends thus flying, began likewiſe for their own ſafety to betake themſelves to their heeles. Thus the field was totally cleared, their right wing and main body beaten out by fine ſtrength, their left wing leaving it in perſuit of their victory. We followed the chaſe of them almoſt as farre as <hi>York</hi> (which is foure miles diſtant from the <hi>Moore</hi>) whether the moſt part of
+<pb facs="tcp:111172:4" rendition="simple:additions"/>their forces fled for ſhelter, and had not night prevented us our execution on them had been farre g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eater. Thus re<g ref="char:EOLhyphen"/>turning and totall maſters of the field, we poſſeſt our ſelves of all their Cannon, match, Powder, Carriages, being very many and well furniſht. As for the number of the ſlain I cannot give you a juſt account, but upon our firſt veiw on both ſides they ſeemed to be foure thouſand, of which I verily beleive nigh <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> were theirs. The Arms of the fields being gathered made in ſhow <hi>5000.</hi> Beſides we heare the ſouldiers have ſince gathered up many at divers places caſt away by them in their flight. As for priſoners taken they are many, but the juſt number or any man of notice in particular as yet I cannot inform you.</p>
+            <p>If you ſhould expect the commendation or valour of any particuler man your friendor mine, by diſplaying of that I ſhould ſeem to take off from others, who all did ſo gallantly this day, that the commendations of one may juſtly ſeem the wrong of another. And as for the enemy the truth is they behaved themſelves with more valour and reſolu<g ref="char:EOLhyphen"/>tion then ever man ſaw coincident with ſo bad a cauſe. Whoſe eyes I pray God to open, and our victories ſhalbe of as great a value with leſſe blood: In a word we were hard<g ref="char:EOLhyphen"/>ly put to it, partly by the power of our enemies, but moſt by our own wants, all proviſions being at that time very ſcarce amongſt us: and our ſouldiers hungry and tired with a lingring ſiege. But you ſee Gods power is above mans want.</p>
+            <closer>
+               <signed>Your friend at all times ready to ſerve you W. H.</signed>
+            </closer>
+            <postscript>
+               <pb facs="tcp:111172:4"/>
+               <p>NOw as I am writing we heare the Prince is rallying his ſhatte<g ref="char:EOLhyphen"/>red forces ſome twelve miles off to<g ref="char:EOLhyphen"/>wards <hi>Scarbrough,</hi> where he expects the conjunction of ſome help from thoſe parts to make up a body again, which we hope to prevent.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
